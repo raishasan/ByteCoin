@@ -1,1 +1,1 @@
-# ByteCoin
+# ByteCoin_iOS
